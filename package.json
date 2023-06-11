@@ -1,0 +1,33 @@
+{
+  "name": "reactnamaste",
+  "version": "1.0.0",
+  "description": "this is react Namaste Akshay",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratnamvidja/UthirapathiNamsteReactjs.git"
+  },
+  "keywords": [],
+  "author": "Uthirapathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratnamvidja/UthirapathiNamsteReactjs/issues"
+  },
+  "homepage": "https://github.com/ratnamvidja/UthirapathiNamsteReactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+  ,
+  "browserslist": [
+    "last 2 versions"
+    
+  ]
+}

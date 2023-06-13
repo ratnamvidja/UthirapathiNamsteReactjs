@@ -4,6 +4,8 @@
   "description": "this is react Namaste Akshay",
   "main": "App.js",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "test"
   },
   "repository": {
@@ -28,6 +30,5 @@
   ,
   "browserslist": [
     "last 2 versions"
-    
   ]
 }
